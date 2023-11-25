@@ -1,0 +1,40 @@
+{
+  "name": "city-pop-shark",
+  "displayName": "City Pop Shark",
+  "description": "Theme for city pop shark",
+  "version": "0.0.1",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aminarune/city-pop-shark"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "city",
+    "pop",
+    "shark",
+    "hololive",
+    "gawr",
+    "gura",
+    "vtuber"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "City Pop Shark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/City Pop Shark-color-theme.json"
+      }
+    ]
+  }
+}
