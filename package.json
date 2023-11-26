@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/Aminarune/city-pop-shark"
   },
+  "publisher": "Aminarune",
   "engines": {
     "vscode": "^1.84.0"
   },
