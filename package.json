@@ -2,7 +2,7 @@
   "name": "city-pop-shark",
   "displayName": "City Pop Shark",
   "description": "Theme for city pop shark",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "package": "vsce package",
     "publish": "vsce publish"
@@ -12,6 +12,8 @@
     "url": "https://github.com/Aminarune/city-pop-shark"
   },
   "publisher": "Aminarune",
+  "icon":"assets/icon.png",
+  "preview": true,
   "engines": {
     "vscode": "^1.84.0"
   },

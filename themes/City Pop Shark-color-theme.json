@@ -16,7 +16,7 @@
     "foreground": "#c1d6ea",
     "editorPane.background": "#141e28",
     "editorGroup.border": "#283d51",
-    "editorGroup.dropBackground": "#d684ad",
+    "editorGroup.dropBackground": "#7999b893",
     "editor.background": "#1b2836",
     "minimap.background": "#1b2836",
     "tab.activeBackground": "#1b2836",
@@ -471,7 +471,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#6699cc"
       }
     },
     {
